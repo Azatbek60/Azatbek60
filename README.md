@@ -12,7 +12,6 @@
 
 ---
 
-
 ### 🌐 Socials:
 
 Siz bilan hamkorlik qilish yoki qiziqarli loyihalarni muhokama qilishdan doim xursandman!
@@ -22,9 +21,7 @@ Siz bilan hamkorlik qilish yoki qiziqarli loyihalarni muhokama qilishdan doim xu
   <a href="https://t.me/Azatbek60" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
-
 ---
-
 
 ### 💻 Tech Stack:
 
