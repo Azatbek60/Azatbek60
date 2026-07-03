@@ -53,5 +53,5 @@ Siz bilan hamkorlik qilish yoki qiziqarli loyihalarni muhokama qilishdan doim xu
 
 <p align="left">
   <a href="mailto:azatbekmuratbaev55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://t.me/Muratbaev" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/Azatbek60" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
