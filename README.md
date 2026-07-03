@@ -1,4 +1,10 @@
-Azatbek60/Azatbek60
+# Salom! Men Azatbek 👋
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="300" alt="Code Animation" />
+</p>
 
 ### 💻 About Me:
 
@@ -41,4 +47,3 @@ Siz bilan hamkorlik qilish yoki qiziqarli loyihalarni muhokama qilishdan doim xu
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azatbek60&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
-
