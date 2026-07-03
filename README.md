@@ -1,9 +1,4 @@
-<!-- TOP BANNER WITH TYPING ANIMATION -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azatbek60&label=Profilga+tashriflar&color=00FFCC&style=flat-square" alt="Visits Badge" />
-</p>
 
----
 
 ### 💻 About Me:
 
