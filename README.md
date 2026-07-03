@@ -1,14 +1,16 @@
-# Salom! Men Azatbek 👋
-
-Frontend dasturchiman. Profilimga xush kelibsiz!
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Salom!+Men+Azatbek+👋;Frontend+Dasturchiman;Profilimga+xush+kelibsiz!" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 📬 Men bilan bog'lanish:
-- **Email:** azatbekmuratbaev55@gmail.com`                
+- **Email:** azatbekmuratbaev55@gmail.com
 - **Telegram:** [Sizning Telegram linkingiz]
+
 ---
 
 ### 📊 GitHub Statistikam:
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Azatbek60&show_icons=true&theme=radial&hide_border=true" alt="Azatbekning GitHub statistikasi" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azatbek60&layout=compact&theme=radial&hide_border=true" alt="Eng ko'p ishlatilgan tillar" width="48%" />
