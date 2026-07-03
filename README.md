@@ -39,10 +39,6 @@ Siz bilan hamkorlik qilish yoki qiziqarli loyihalarni muhokama qilishdan doim xu
 
 ### 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azatbek60&show_icons=true&theme=tokyonight&hide_border=true" alt="Azatbekning GitHub statistikasi" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azatbek60&layout=compact&theme=tokyonight&hide_border=true" alt="Eng ko'p ishlatilgan tillar" width="48%" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azatbek60&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
