@@ -1,4 +1,4 @@
-# Salom! Men Azatbek 👋
+# HI! 👋
 
 ---
 
@@ -8,9 +8,7 @@
 
 ### 💻 About Me:
 
-- 💻 **Kungrat** (tuman veb-sayti) va **KARSOFT** kabi qiziqarli loyihalar ustida ishlaganman.
-- 🎨 Dizaynlarni mukammal darajada kodga o'girish uchun **Figma** bilan ham faol ishlayman.
-
+- 🎨"I leverage Figma to flawlessly transform design concepts into high-quality, clean code."
 ---
 
 ### 🌐 Socials:
