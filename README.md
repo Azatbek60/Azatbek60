@@ -35,9 +35,3 @@ Siz bilan hamkorlik qilish yoki qiziqarli loyihalarni muhokama qilishdan doim xu
 
 ---
 
-### 📊 GitHub Stats:
-
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azatbek60&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
